@@ -1,4 +1,18 @@
 ### Hi there 👋 
+<a href="https://www.linkedin.com/in/anandyv/">
+  <img align="left" alt="Anand's LinkedIN" width="22px" src="https://github.com/anand-yv/anand-yv/blob/main/Icons/linkedin.png" />
+</a>
+
+<a href="https://leetcode.com/anand_yv/">
+  <img align="left" alt="Anand's LeetCode(anand_yv)" width="22px" src="https://github.com/anand-yv/anand-yv/blob/main/Icons/leetcode.png" />
+</a>
+
+<a href="https://www.hackerrank.com/anand_yv?hr_r=1">
+  <img align="left" alt="Anand's HackerRank(anand_yv)" width="22px" src="https://github.com/anand-yv/anand-yv/blob/main/Icons/hackerrank.png" />
+</a>
+
+<br>
+<br>
 I'm Anand Yadav, currently pursuing BE in IT from Thakur College of Engineering and Technology, located in Mumbai, India. 
 
 My interests lie in the fields of Machine Learning, Data Analytics, and Data Science.

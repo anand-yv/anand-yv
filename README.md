@@ -1,9 +1,11 @@
 ### Hi there 👋 
-I'm Anand Yadav, currently pursuing BE in IT from Thakur College of Engineering and Technology, located in Mumbai, India. My interests lie in the fields of Machine Learning, Data Analytics, and Data Science.
+I'm Anand Yadav, currently pursuing BE in IT from Thakur College of Engineering and Technology, located in Mumbai, India. 
+
+My interests lie in the fields of Machine Learning, Data Analytics, and Data Science.
 
 I'm proficient in several technical skills such as Python, C++, Linux, MySQL, MongoDB, HTML, and CSS. I'm also familiar with Java and NodeJS. Additionally, I have experience with popular data science libraries such as NumPy and Pandas.
 
-Currently, I'm expanding my skillset by learning new concept in Data Structures and Algorithms (DSA) and tools to further my knowledge in the field of Data Science.
+Currently, I'm expanding my skillset by learning new concept in Data Structures and Algorithms (DSA) and tools to further increase my knowledge in the field of Data Science.
 
 
 
